@@ -90,9 +90,3 @@ The detail pages fit the whole image inside its frame without cropping. The hero
 - **Dates:** Employment dates and “Present” reflect the supplied résumé. Confirm they are current before publishing; expected graduation is May 2028.
 - **Project detail:** Add measured outcomes, dimensions, constraints, FEA results, and captions only when you have supporting information. The current site does not invent performance gains, safety-factor values, competition results, or tolerances.
 
-## Content source
-
-The original source is the supplied Eduardo-Alvarez-Resume.pdf, with subsequent text and image edits supplied by Eduardo. The three project highlights organize different aspects of the same Husker Motorsports role; they are not presented as three separate employers or independently documented projects. Role titles, tools, education, contact information, and date ranges come from that résumé. Descriptions have been edited for clarity. The two numeric experience highlights (1,000+ students/families weekly and landscaping projects up to $100,000) are stated in the source.
-
-The site includes no tracking, third-party fonts, forms, cookies, external image services, or build dependencies. GitHub Pages hosts the static files; email uses your visitor’s configured mail application.
-
