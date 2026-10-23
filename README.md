@@ -2,7 +2,6 @@
 
 A complete, responsive portfolio based on the supplied Eduardo-Alvarez-Resume.pdf. It includes a full-width introduction, personal summary, alternating experience timeline, image-led Formula SAE project gallery, technical skills, education, contact links, and a downloadable copy of the résumé.
 
-**Nothing has been uploaded or published.** Follow the GitHub steps below when you are ready to make it public.
 
 ## Open the site locally
 
